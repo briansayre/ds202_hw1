@@ -1,0 +1,14 @@
+---
+title: 'Lab 1 - Partner'
+author: "Justin Park"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+### GitHub username: justinpark9  
+  
+His most recent commit was his initial commit and the commit ID was eaa90e38875defa2a7836d97cfe59fe88102e08b. 
+  
+Screenshots showing commands in Git Bash to make it easier to follow along.
